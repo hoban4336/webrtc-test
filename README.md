@@ -27,7 +27,7 @@ npm install
 npm run dev
 
 # 빌드
-npm run build
+npm run build 
 
 # 빌드 결과 미리보기
 npm run preview
